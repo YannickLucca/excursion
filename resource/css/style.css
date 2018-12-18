@@ -1,0 +1,40 @@
+#link{
+  color:Aquamarine;
+  font-size: 16px;
+  text-align:center;
+}
+nav{
+  color: Gray;
+  font-size: 16px;
+  text-align: center;
+}
+#mainheading{
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color:white;
+  text-align:center;
+}
+body{
+  background-color: black;
+}
+.text{
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+  text-align:center;
+}
+.media {
+  text-align:center;
+}
+#company {
+  text-align:right;
+  color:Gray;
+}
+#description{
+  font-family:Verdana;
+  font-size: 21px;
+  color:Gray;
+  text-align:center;
+}
